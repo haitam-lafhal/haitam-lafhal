@@ -178,12 +178,12 @@ I’m deeply fascinated by **Artificial Intelligence** and its potential to tran
 
 ## 📫 **Let's Connect!**
 
-- **Email**: haiam1lafhal@gmail.com
+- **Email**: haitam1lafhal@gmail.com
 - **Location**: Casablanca, Morocco
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haitam-lafhal)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/haitam_lafhal)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haia1lafhal@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HaitamDev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haitam1lafhal@gmail.com)
 
 ---
 
