@@ -178,7 +178,6 @@ I’m deeply fascinated by **Artificial Intelligence** and its potential to tran
 
 ## 📫 **Let's Connect!**
 
-- **Phone**: +212 608490269
 - **Email**: haiam1lafhal@gmail.com
 - **Location**: Casablanca, Morocco
 
